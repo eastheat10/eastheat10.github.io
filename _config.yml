@@ -9,6 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
+local: "ko"
 title: blog
 subtitle: blog
 email: eastheat10@gmail.com
@@ -19,7 +20,9 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://eastheat10.github.io"
+repository: "eastheat10/eastheat10.github.io"
+search: true
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
