@@ -4,15 +4,30 @@
   <url>
     <loc>http://example.org/</loc>
     <lastmod>2022-12-20T21:26:11+09:00</lastmod>
+    <priority>0</priority>
   </url><url>
-    <loc>http://example.org/post/</loc>
-    <lastmod>2022-12-20T21:26:11+09:00</lastmod>
-  </url><url>
-    <loc>http://example.org/post/test1/</loc>
+    <loc>http://example.org/docs/post/</loc>
     <lastmod>2022-12-20T21:26:11+09:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>
+    <lastmod>2022-12-20T21:26:11+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/docs/</loc>
+    <lastmod>2022-12-20T21:26:11+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/hello/</loc>
+    <lastmod>2022-12-20T21:26:11+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/post/</loc>
+    <lastmod>2022-12-20T21:26:11+09:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/</loc>
+    <lastmod>2022-12-20T21:26:11+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/test/</loc>
+    <lastmod>2022-12-20T21:26:11+09:00</lastmod>
+  </url><url>
+    <loc>http://example.org/docs/post/test1/</loc>
+    <lastmod>2022-12-20T21:26:11+09:00</lastmod>
   </url>
 </urlset>
